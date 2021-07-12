@@ -13,8 +13,8 @@ Videocall web application using webRTC and nodeJS
 <li>Full Screen</li>
 <h1>Warnings</h1>
 <li>Tested for a maximum of 4 devices</li>
-<li>Coampatibility:</li>
-<ul>Browsers:
+<li>Coampatibility:</li><br>
+<ul><h3>Browsers:</h3>
   <li>Chrome</li>
   <li>Microsoft Edge</li>
   <li>Firefox</li>
