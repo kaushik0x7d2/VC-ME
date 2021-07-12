@@ -1,7 +1,7 @@
 # VC-ME
 Videocall web application using webRTC and nodeJS
 <h1>Running Application</h1>
-<li>npm ci</li>
+'npm ci'
 <li>node app.js</li>
 <br>
 <h1>Features</h1>
